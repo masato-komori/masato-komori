@@ -10,6 +10,7 @@
 <br>
 
 ## Stats :chart_with_upwards_trend:
+![](https://raw.githubusercontent.com/masato-komori/masato-komori/output/github-contribution-grid-snake.svg)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masato-komori&theme=gruvbox)
