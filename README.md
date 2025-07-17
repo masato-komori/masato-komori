@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! :wave: Welcome to my GitHub! 😊
 
-<!--
-**masato-komori/masato-komori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,vue,figma,php,laravel,java,electron,python,aws" />
+<br>
+
+## Stats :chart_with_upwards_trend:
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masato-komori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masato-komori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masato-komori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masato-komori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masato-komori&theme=gruvbox&utcOffset=9)
+
+## Trophy :trophy:
+![trophy](https://github-profile-trophy.vercel.app/?username=masato-komori&theme=gruvbox)
+
